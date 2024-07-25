@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NagaoTadashi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔭 I’m currently working on ...
 # BrainPad.Inc
 ## 🌱 I’m currently learning...
