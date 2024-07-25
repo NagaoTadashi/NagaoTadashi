@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NagaoTadashi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔭 I’m currently working on ...
-@BrainPad.Inc
+# BrainPad.Inc
 ## 🌱 I’m currently learning...
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,vue,django,docker,aws)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on ...
